@@ -1,0 +1,21 @@
+form{
+    background-color: beige;
+}
+/* input[type=text]{
+    height: 200px;
+    width: 200px;
+} */
+
+.box{
+    height: 25px;
+    width: 50%;
+    border: none;
+    margin-bottom: 2%;
+    padding: 0.5%;
+    border-radius: 5px;
+}
+.box:focus{
+    color: crimson;
+    background-color: bisque;
+    border: dotted blue 3px;
+}

@@ -1,0 +1,45 @@
+html{
+    background-color: aquamarine;
+}
+img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0;
+    height: 200px;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 20px 20px 30px;
+}
+.gallery{
+    width: 20%;
+    margin: 2%;
+    border: 20px 30px 40px red;
+    float: left;
+    border-radius: 20px 20px 30px;
+    box-shadow: 2px 3px 5px blue;
+    
+}
+.gallery:hover{
+    /* opacity: 0.3; */
+    box-shadow: 2px 3px 5px red;
+}
+.description{
+    padding: 10px 2px 4px 10px;
+}
+.pagination{
+    display: inline-block;
+}
+.pagination a{
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.pagination a.active{
+    background-color: #4caf50;
+    color: white;
+}
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}

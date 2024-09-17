@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(243, 243, 145);
+}
+h1+p{
+    color: rgb(250, 10, 10);
+}
+p+h1{
+    color: orangered;
+}
+h2+p{
+    color: rgb(6, 88, 241);
+}
+p+h2{
+    color: blue;
+}
+h3+p{
+    color: aqua;
+}
+p+h3{
+    color: rgb(255, 0, 128);
+}
+h4+p{
+    color: royalblue;
+}
+p+h4{
+    color: rgb(255, 145, 0);
+}
+h5+p{
+    color: rgb(4, 252, 252);
+}
+p+h5{
+    color: black;
+}
+h6+p{
+    color: rgb(255, 170, 0);
+}
+p+h6{
+    color: rgb(0, 255, 170);
+}

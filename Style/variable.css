@@ -1,0 +1,42 @@
+:root{
+    --header-colors:#4f44f0;
+    --image-border: #aba4cf;
+}
+
+.head{
+    color:var(--header-colors);
+}
+.head2{
+    color:var(--header-colors);
+}
+.head3{
+    color:var(--header-colors);
+}
+.Image{
+    border: dotted var(--image-border) 10px;
+}
+.Image2{
+    border: dashed var(--image-border) 10px;
+}
+.Image3{
+    border: groove var(--image-border) 10px;
+}
+.text{
+    color: darkblue;
+    font-family: cursive;
+    border: groove red 10px;
+    background-color: aquamarine;
+}
+.text2{
+    color: darkblue;
+    font-family: cursive;
+    border: groove red 10px;
+    background-color: aquamarine;
+}
+.text3{
+    color: darkblue;
+    font-family: cursive;
+    border: groove red 10px;
+    background-color: aquamarine;
+}
+

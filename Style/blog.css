@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.whole{
+    width: 100%;
+    margin-top: 5%;
+}
+.div1{
+    float: left;
+    width: 33.3%;
+    color: white;
+}
+.div2{
+    float: left;
+    width: 33.3%;
+    color: greenyellow;
+}
+.div3{
+    float: left;
+    width: 33.3%;
+    color: greenyellow;
+}
+h1{
+    color: blue;
+    margin-left: 14%;
+}
+html{
+    
+    background-color: beige;
+}
+.button{
+    height: 30px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 10px;
+    background-color: blue;
+    color: yellow;
+    text-shadow: 2px 3px black;
+}
+p{
+    color: red;
+}
+.Image{
+    border-radius:  20px 30px 20px;
+    width: 90%;
+}
+.head{
+    font-family: cursive;
+    color: rebeccapurple;
+    text-align: center;
+    margin-right: 25%;
+  margin-bottom: 5%;
+}

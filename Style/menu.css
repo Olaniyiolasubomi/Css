@@ -1,0 +1,19 @@
+ul{
+    width: 100%;
+    background-color: aquamarine;
+    height: 150px;
+    text-align: center ;
+}
+ul li{
+    display: inline-block;
+    padding-top: 70px;
+}
+ul li a{
+    text-decoration: none;
+    background-color: beige;
+    padding: 15px;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: red;
+    text-transform: uppercase;
+}

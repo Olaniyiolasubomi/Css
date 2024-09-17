@@ -1,0 +1,50 @@
+/* html{
+    background-color: rgb(226, 206, 206);
+}
+h1{
+    background-color: rgb(255, 2, 2);
+    font-size: xx-large;
+    text-align: center;
+}
+p{
+    line-height: 29px;
+    font-family: cursive;
+}
+<- */
+
+.Subomi{
+    background-color: burlywood;
+    text-align: center;
+}
+.Victor{
+    background-color: cornsilk;
+    text-align: center;
+}
+.Ola{
+    background-color: bisque;
+    text-align: center;
+}
+.yhn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Bac{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Why{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* img{
+    border-radius: 10%;
+    margin-left: 40%;
+} */
+.Kakashi{
+    border-radius: 10%;
+}
+.phone{
+    border-radius: 10%;
+    margin-left: 40%;
+}
+.Bear{
+    border-radius: 10%;
+    margin-left: 75%;
+}

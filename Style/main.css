@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(25, 212, 212);
+}
+h1{
+    background-color: rgb(125, 255, 255);
+    font-size: xx-large;
+    text-align: center;
+}
+p{
+    line-height: 29px;
+    font-family: cursive;
+}
+img{
+    border-radius: 10%;
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+}
+video{
+    height: 500px;
+    width: 700px;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+P{
+    color: rgba(255, 0, 0, 0.575);
+}
+.head{
+    text-shadow: 2px 3px 5px red;
+}
+.body{
+    text-shadow: 2px 3px 5px green;
+}
+.conclusion{
+    text-shadow: 2px 3px 5px blue;
+}
+.img1{
+    box-shadow: 2px 3px 5px yellow;
+}
+.img2{
+    box-shadow: 2px 3px 5px purple;
+}
+.img3{
+    box-shadow: 2px 3px 5px rgb(255, 55, 55);
+}

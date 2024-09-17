@@ -1,0 +1,19 @@
+.card{
+    width: 20%;
+    margin: 2%;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 17, 225);
+    float: left;  
+}
+.img{
+    width: 20%;
+    border-radius: 20px 20px 0px 0;
+}
+.content{
+    padding: 0 0 20px 10px;
+}
+.row{
+    width: 100%;
+    
+    
+}
